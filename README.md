@@ -1,2 +1,2 @@
 # Cloudflare-workers
-General Cloudflare workesr
+Generic cloudflare scripts and workers
